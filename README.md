@@ -1,4 +1,8 @@
+<!--
 ### Hi there 👋
+-->
+I code. I caffeinate. I contemplate the absurdity of existence.
+Just one line of code at a time.
 
 <!--
 **ZaaWi/ZaaWi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
