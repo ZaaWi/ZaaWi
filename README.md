@@ -1,7 +1,9 @@
 <!--
 ### Hi there 👋
 -->
+<!--
 I code. I caffeinate.
+-->
 ### Just one line of code at a time.
 
 <!--
